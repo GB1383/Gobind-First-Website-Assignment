@@ -68,7 +68,7 @@ h2 {
     margin-bottom: 150px;
 }
 
-section {
+main {
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
@@ -101,7 +101,7 @@ h3 {
 
 /* SECTION -3 */
 
-main {
+section {
     display: flex;
     flex-direction: row;
     align-items: center;
